@@ -1,9 +1,8 @@
-######################################
-COURS UDEMY
+######################################.
+COURS UDEMY.
 
 Ce repo contient les projets implémentés pendant le cours [Intelligence Artificielle de A à Z](https://www.udemy.com/intelligence-artificielle-az/?couponCode=WEBSITE) en utilisant `PyTorch`.
-*GMD*
-#######################################
+#######################################.
 
 1. [Installation des modules - Self Driving Car](#installation-des-modules-self-driving-car)
     1. [Installation de PyTorch](#installation-de-pytorch)
